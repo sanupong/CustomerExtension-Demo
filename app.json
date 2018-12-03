@@ -1,0 +1,23 @@
+{
+  "id": "12b5189a-107a-41be-a4b7-788591feeafc",
+  "name": "CustomerExtension-Demo",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0"
+}
